@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<Repositories>
+  <Repository>
+    <Username>bitcoin</Username>
+    <Repo_Name>bitcoin</Repo_Name>
+    <Repo_Url>https://www.github.com/bitcoin/bitcoin</Repo_Url>
+    <Stars>82900</Stars>
+    <About>Bitcoin Core integration/staging tree</About>
+    <Last_Updated>2025-01-15T10:45:10Z</Last_Updated>
+    <Languages>C, C++, CMake, Makefile, Other, Python, Shell</Languages>
+    <Commits>44458</Commits>
+  </Repository>
+  <Repository>
+    <Username>freqtrade</Username>
+    <Repo_Name>freqtrade</Repo_Name>
+    <Repo_Url>https://www.github.com/freqtrade/freqtrade</Repo_Url>
+    <Stars>38100</Stars>
+    <About>Free, open source crypto trading bot</About>
+    <Last_Updated>2025-03-27T16:58:28Z</Last_Updated>
+    <Languages>Dockerfile, Jinja, Jupyter Notebook, PowerShell, Python, Shell</Languages>
+    <Commits>28147</Commits>
+  </Repository>
+  <Repository>
+    <Username>ccxt</Username>
+    <Repo_Name>ccxt</Repo_Name>
+    <Repo_Url>https://www.github.com/ccxt/ccxt</Repo_Url>
+    <Stars>35500</Stars>
+    <About>A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges</About>
+    <Last_Updated>2025-04-13T14:03:42Z</Last_Updated>
+    <Languages>C#, Go, JavaScript, PHP, Python, TypeScript</Languages>
+    <Commits>87641</Commits>
+  </Repository>
+  <Repository>
+    <Username>bitcoinbook</Username>
+    <Repo_Name>bitcoinbook</Repo_Name>
+    <Repo_Url>https://www.github.com/bitcoinbook/bitcoinbook</Repo_Url>
+    <Stars>24200</Stars>
+    <About>Mastering Bitcoin 3rd Edition - Programming the Open Blockchain</About>
+    <Last_Updated>2024-01-28T18:41:50Z</Last_Updated>
+    <Languages>CSS, Gnuplot, HTML, Python, Shell, XSLT</Languages>
+    <Commits>5210</Commits>
+  </Repository>
+  <Repository>
+    <Username>HelloZeroNet</Username>
+    <Repo_Name>ZeroNet</Repo_Name>
+    <Repo_Url>https://www.github.com/HelloZeroNet/ZeroNet</Repo_Url>
+    <Stars>18500</Stars>
+    <About>ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network</About>
+    <Last_Updated>2019-09-06T01:10:43Z</Last_Updated>
+    <Languages>CSS, CoffeeScript, Dockerfile, HTML, JavaScript, Python</Languages>
+    <Commits>4033</Commits>
+  </Repository>
+  <Repository>
+    <Username>solana-labs</Username>
+    <Repo_Name>solana</Repo_Name>
+    <Repo_Url>https://www.github.com/solana-labs/solana</Repo_Url>
+    <Stars>14000</Stars>
+    <About>Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</About>
+    <Last_Updated>2024-10-12T16:56:55Z</Last_Updated>
+    <Languages>C, C++, Makefile, Python, Rust, Shell</Languages>
+    <Commits>24987</Commits>
+  </Repository>
+  <Repository>
+    <Username>bbfamily</Username>
+    <Repo_Name>abu</Repo_Name>
+    <Repo_Url>https://www.github.com/bbfamily/abu</Repo_Url>
+    <Stars>13400</Stars>
+    <About>阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构</About>
+    <Last_Updated>2019-06-20T04:56:06Z</Last_Updated>
+    <Languages>Python</Languages>
+    <Commits>71</Commits>
+  </Repository>
+  <Repository>
+    <Username>hummingbot</Username>
+    <Repo_Name>hummingbot</Repo_Name>
+    <Repo_Url>https://www.github.com/hummingbot/hummingbot</Repo_Url>
+    <Stars>12200</Stars>
+    <About>Open source software that helps you create and deploy high-frequency crypto trading bots</About>
+    <Last_Updated>2025-03-03T18:30:28Z</Last_Updated>
+    <Languages>C++, Cython, Dockerfile, Makefile, Python, Shell</Languages>
+    <Commits>24842</Commits>
+  </Repository>
+  <Repository>
+    <Username>UFund-Me</Username>
+    <Repo_Name>Qbot</Repo_Name>
+    <Repo_Url>https://www.github.com/UFund-Me/Qbot</Repo_Url>
+    <Stars>11000</Stars>
+    <About>[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant</About>
+    <Last_Updated>2024-06-16T08:20:47Z</Last_Updated>
+    <Languages>C, Go, HTML, Jupyter Notebook, Other, Python, Vue</Languages>
+    <Commits>143</Commits>
+  </Repository>
+  <Repository>
+    <Username>askmike</Username>
+    <Repo_Name>gekko</Repo_Name>
+    <Repo_Url>https://www.github.com/askmike/gekko</Repo_Url>
+    <Stars>10100</Stars>
+    <About>A bitcoin trading bot written in node - https://gekko.wizb.it/</About>
+    <Last_Updated>2018-12-02T22:33:57Z</Last_Updated>
+    <Languages>JavaScript, Other, Vue</Languages>
+    <Commits>2613</Commits>
+  </Repository>
+  <Repository>
+    <Username>getumbrel</Username>
+    <Repo_Name>umbrel</Repo_Name>
+    <Repo_Url>https://www.github.com/getumbrel/umbrel</Repo_Url>
+    <Stars>8700</Stars>
+    <About>A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.</About>
+    <Last_Updated>2025-02-28T12:50:26Z</Last_Updated>
+    <Languages>CSS, Dockerfile, EJS, JavaScript, Other, Shell, TypeScript</Languages>
+    <Commits>2782</Commits>
+  </Repository>
+  <Repository>
+    <Username>dvf</Username>
+    <Repo_Name>blockchain</Repo_Name>
+    <Repo_Url>https://www.github.com/dvf/blockchain</Repo_Url>
+    <Stars>7900</Stars>
+    <About>A simple Blockchain in Python</About>
+    <Last_Updated/>
+    <Languages>C#, Dockerfile, JavaScript, Python</Languages>
+    <Commits>71</Commits>
+  </Repository>
+  <Repository>
+    <Username>lightningnetwork</Username>
+    <Repo_Name>lnd</Repo_Name>
+    <Repo_Url>https://www.github.com/lightningnetwork/lnd</Repo_Url>
+    <Stars>7900</Stars>
+    <About>Lightning Network Daemon ⚡️</About>
+    <Last_Updated>2025-02-12T08:13:02Z</Last_Updated>
+    <Languages>Go, Other</Languages>
+    <Commits>18612</Commits>
+  </Repository>
+  <Repository>
+    <Username>spesmilo</Username>
+    <Repo_Name>electrum</Repo_Name>
+    <Repo_Url>https://www.github.com/spesmilo/electrum</Repo_Url>
+    <Stars>7800</Stars>
+    <About>Electrum Bitcoin Wallet</About>
+    <Last_Updated/>
+    <Languages>Dockerfile, NSIS, Other, Python, QML, Ruby, Shell</Languages>
+    <Commits>18340</Commits>
+  </Repository>
+  <Repository>
+    <Username>lbryio</Username>
+    <Repo_Name>lbry-sdk</Repo_Name>
+    <Repo_Url>https://www.github.com/lbryio/lbry-sdk</Repo_Url>
+    <Stars>7200</Stars>
+    <About>The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.</About>
+    <Last_Updated>2023-01-23T16:07:51Z</Last_Updated>
+    <Languages>Other, Python</Languages>
+    <Commits>9236</Commits>
+  </Repository>
+  <Repository>
+    <Username>yeasy</Username>
+    <Repo_Name>blockchain_guide</Repo_Name>
+    <Repo_Url>https://www.github.com/yeasy/blockchain_guide</Repo_Url>
+    <Stars>6900</Stars>
+    <About>Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.</About>
+    <Last_Updated>2021-12-02T00:28:07Z</Last_Updated>
+    <Languages>Go</Languages>
+    <Commits>668</Commits>
+  </Repository>
+  <Repository>
+    <Username>btcpayserver</Username>
+    <Repo_Name>btcpayserver</Repo_Name>
+    <Repo_Url>https://www.github.com/btcpayserver/btcpayserver</Repo_Url>
+    <Stars>6700</Stars>
+    <About>Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</About>
+    <Last_Updated>2025-04-10T09:44:35Z</Last_Updated>
+    <Languages>C#, CSS, HTML, JavaScript, Other, PowerShell, Shell</Languages>
+    <Commits>8284</Commits>
+  </Repository>
+  <Repository>
+    <Username>btcsuite</Username>
+    <Repo_Name>btcd</Repo_Name>
+    <Repo_Url>https://www.github.com/btcsuite/btcd</Repo_Url>
+    <Stars>6400</Stars>
+    <About>An alternative full node bitcoin implementation written in Go (golang)</About>
+    <Last_Updated>2024-06-25T20:44:01Z</Last_Updated>
+    <Languages>Go, Other</Languages>
+    <Commits>4126</Commits>
+  </Repository>
+  <Repository>
+    <Username>jesse-ai</Username>
+    <Repo_Name>jesse</Repo_Name>
+    <Repo_Url>https://www.github.com/jesse-ai/jesse</Repo_Url>
+    <Stars>6300</Stars>
+    <About>An advanced crypto trading bot written in Python</About>
+    <Last_Updated/>
+    <Languages>JavaScript, Other, Python</Languages>
+    <Commits>2786</Commits>
+  </Repository>
+  <Repository>
+    <Username>bitcoinjs</Username>
+    <Repo_Name>bitcoinjs-lib</Repo_Name>
+    <Repo_Url>https://www.github.com/bitcoinjs/bitcoinjs-lib</Repo_Url>
+    <Stars>5800</Stars>
+    <About>A javascript Bitcoin library for node.js and browsers.</About>
+    <Last_Updated/>
+    <Languages>JavaScript, TypeScript</Languages>
+    <Commits>3211</Commits>
+  </Repository>
+</Repositories>

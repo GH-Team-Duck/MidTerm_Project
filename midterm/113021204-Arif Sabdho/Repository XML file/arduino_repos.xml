@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<Repositories>
+  <Repository>
+    <Username>arendst</Username>
+    <Repo_Name>Tasmota</Repo_Name>
+    <Repo_Url>https://www.github.com/arendst/Tasmota</Repo_Url>
+    <Stars>23100</Stars>
+    <About>Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</About>
+    <Last_Updated>2025-02-18T14:50:16Z</Last_Updated>
+    <Languages>Berry, C, C++, Jupyter Notebook, Makefile, Other, Python</Languages>
+    <Commits>20416</Commits>
+  </Repository>
+  <Repository>
+    <Username>MarlinFirmware</Username>
+    <Repo_Name>Marlin</Repo_Name>
+    <Repo_Url>https://www.github.com/MarlinFirmware/Marlin</Repo_Url>
+    <Stars>16600</Stars>
+    <About>Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.</About>
+    <Last_Updated>2025-01-16T19:40:21Z</Last_Updated>
+    <Languages>C, C++, JavaScript, Linker Script, Other, Python, Shell</Languages>
+    <Commits>21087</Commits>
+  </Repository>
+  <Repository>
+    <Username>tinygo-org</Username>
+    <Repo_Name>tinygo</Repo_Name>
+    <Repo_Url>https://www.github.com/tinygo-org/tinygo</Repo_Url>
+    <Stars>16100</Stars>
+    <About>Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.</About>
+    <Last_Updated>2025-03-19T14:40:43Z</Last_Updated>
+    <Languages>Assembly, C++, Go, JavaScript, Linker Script, Makefile, Other</Languages>
+    <Commits>4219</Commits>
+  </Repository>
+  <Repository>
+    <Username>espressif</Username>
+    <Repo_Name>arduino-esp32</Repo_Name>
+    <Repo_Url>https://www.github.com/espressif/arduino-esp32</Repo_Url>
+    <Stars>14600</Stars>
+    <About>Arduino core for the ESP32</About>
+    <Last_Updated>2025-03-28T08:40:06Z</Last_Updated>
+    <Languages>C, C++, CMake, HTML, Python, Shell</Languages>
+    <Commits>3221</Commits>
+  </Repository>
+  <Repository>
+    <Username>arduino</Username>
+    <Repo_Name>Arduino</Repo_Name>
+    <Repo_Url>https://www.github.com/arduino/Arduino</Repo_Url>
+    <Stars>14300</Stars>
+    <About>Arduino IDE 1.x</About>
+    <Last_Updated>2021-12-21T08:08:31Z</Last_Updated>
+    <Languages>Java, Other, Python</Languages>
+    <Commits>7376</Commits>
+  </Repository>
+  <Repository>
+    <Username>SpacehuhnTech</Username>
+    <Repo_Name>esp8266_deauther</Repo_Name>
+    <Repo_Url>https://www.github.com/SpacehuhnTech/esp8266_deauther</Repo_Url>
+    <Stars>14000</Stars>
+    <About>Affordable WiFi hacking platform for testing and learning</About>
+    <Last_Updated>2021-08-07T14:25:44Z</Last_Updated>
+    <Languages>C, C++, CSS, HTML, JavaScript, Python, Shell</Languages>
+    <Commits>773</Commits>
+  </Repository>
+  <Repository>
+    <Username>rwaldron</Username>
+    <Repo_Name>johnny-five</Repo_Name>
+    <Repo_Url>https://www.github.com/rwaldron/johnny-five</Repo_Url>
+    <Stars>13400</Stars>
+    <About>JavaScript Robotics and IoT programming framework, developed at Bocoup.</About>
+    <Last_Updated>2021-07-06T14:55:22Z</Last_Updated>
+    <Languages>JavaScript, Other</Languages>
+    <Commits>3368</Commits>
+  </Repository>
+  <Repository>
+    <Username>gurugio</Username>
+    <Repo_Name>lowlevelprogramming-university</Repo_Name>
+    <Repo_Url>https://www.github.com/gurugio/lowlevelprogramming-university</Repo_Url>
+    <Stars>11900</Stars>
+    <About>How to be low-level programmer</About>
+    <Last_Updated/>
+    <Languages/>
+    <Commits>240</Commits>
+  </Repository>
+  <Repository>
+    <Username>hybridgroup</Username>
+    <Repo_Name>gobot</Repo_Name>
+    <Repo_Url>https://www.github.com/hybridgroup/gobot</Repo_Url>
+    <Stars>9100</Stars>
+    <About>Golang framework for robotics, drones, and the Internet of Things (IoT)</About>
+    <Last_Updated>2025-02-16T14:57:04Z</Last_Updated>
+    <Languages>C, Go, Makefile</Languages>
+    <Commits>2964</Commits>
+  </Repository>
+  <Repository>
+    <Username>platformio</Username>
+    <Repo_Name>platformio-core</Repo_Name>
+    <Repo_Url>https://www.github.com/platformio/platformio-core</Repo_Url>
+    <Stars>8200</Stars>
+    <About>Your Gateway to Embedded Software Development Excellence 👽</About>
+    <Last_Updated>2025-03-11T20:17:16Z</Last_Updated>
+    <Languages>Other, Python, Smarty</Languages>
+    <Commits>6633</Commits>
+  </Repository>
+  <Repository>
+    <Username>justcallmekoko</Username>
+    <Repo_Name>ESP32Marauder</Repo_Name>
+    <Repo_Url>https://www.github.com/justcallmekoko/ESP32Marauder</Repo_Url>
+    <Stars>7300</Stars>
+    <About>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</About>
+    <Last_Updated>2025-04-10T15:59:31Z</Last_Updated>
+    <Languages>C, C++, Other</Languages>
+    <Commits>1045</Commits>
+  </Repository>
+  <Repository>
+    <Username>bblanchon</Username>
+    <Repo_Name>ArduinoJson</Repo_Name>
+    <Repo_Url>https://www.github.com/bblanchon/ArduinoJson</Repo_Url>
+    <Stars>6900</Stars>
+    <About>📟 JSON library for Arduino and embedded C++. Simple and efficient.</About>
+    <Last_Updated>2025-04-11T13:43:59Z</Last_Updated>
+    <Languages>Awk, C++, CMake, Dockerfile, Makefile, Shell</Languages>
+    <Commits>2043</Commits>
+  </Repository>
+  <Repository>
+    <Username>tzapu</Username>
+    <Repo_Name>WiFiManager</Repo_Name>
+    <Repo_Url>https://www.github.com/tzapu/WiFiManager</Repo_Url>
+    <Stars>6800</Stars>
+    <About>ESP8266 WiFi Connection manager with web captive portal</About>
+    <Last_Updated>2024-03-02T02:34:58Z</Last_Updated>
+    <Languages>C, C++, HTML, Other</Languages>
+    <Commits>1309</Commits>
+  </Repository>
+  <Repository>
+    <Username>ggerganov</Username>
+    <Repo_Name>ggwave</Repo_Name>
+    <Repo_Url>https://www.github.com/ggerganov/ggwave</Repo_Url>
+    <Stars>6500</Stars>
+    <About>Tiny data-over-sound library</About>
+    <Last_Updated>2022-07-10T15:59:26Z</Last_Updated>
+    <Languages>C, C++, CMake, Cython, JavaScript, Makefile, Python</Languages>
+    <Commits>481</Commits>
+  </Repository>
+  <Repository>
+    <Username>olikraus</Username>
+    <Repo_Name>u8g2</Repo_Name>
+    <Repo_Url>https://www.github.com/olikraus/u8g2</Repo_Url>
+    <Stars>5500</Stars>
+    <About>U8glib library for monochrome displays, version 2</About>
+    <Last_Updated/>
+    <Languages>C, C++, Linker Script, Makefile, Shell, Uno</Languages>
+    <Commits>3121</Commits>
+  </Repository>
+  <Repository>
+    <Username>Serial-Studio</Username>
+    <Repo_Name>Serial-Studio</Repo_Name>
+    <Repo_Url>https://www.github.com/Serial-Studio/Serial-Studio</Repo_Url>
+    <Stars>5400</Stars>
+    <About>Data visualization software for embedded devices and projects</About>
+    <Last_Updated>2024-11-27T08:10:13Z</Last_Updated>
+    <Languages>C, C++, CMake, Lua, QML, QMake</Languages>
+    <Commits>1699</Commits>
+  </Repository>
+  <Repository>
+    <Username>omriharel</Username>
+    <Repo_Name>deej</Repo_Name>
+    <Repo_Url>https://www.github.com/omriharel/deej</Repo_Url>
+    <Stars>5000</Stars>
+    <About>Set app volumes with real sliders! deej is an Arduino &amp; Go project to let you build your own hardware mixer for Windows and Linux</About>
+    <Last_Updated>2020-08-31T19:36:21Z</Last_Updated>
+    <Languages>Go, Other</Languages>
+    <Commits>126</Commits>
+  </Repository>
+  <Repository>
+    <Username>ClemensElflein</Username>
+    <Repo_Name>OpenMower</Repo_Name>
+    <Repo_Url>https://www.github.com/ClemensElflein/OpenMower</Repo_Url>
+    <Stars>4800</Stars>
+    <About>Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!</About>
+    <Last_Updated>2023-04-27T20:01:01Z</Last_Updated>
+    <Languages>C, C++, Other</Languages>
+    <Commits>354</Commits>
+  </Repository>
+  <Repository>
+    <Username>Arduino-IRremote</Username>
+    <Repo_Name>Arduino-IRremote</Repo_Name>
+    <Repo_Url>https://www.github.com/Arduino-IRremote/Arduino-IRremote</Repo_Url>
+    <Stars>4700</Stars>
+    <About>Infrared remote library for Arduino: send and receive infrared signals with multiple protocols</About>
+    <Last_Updated>2024-09-09T10:48:53Z</Last_Updated>
+    <Languages>C, C++</Languages>
+    <Commits>861</Commits>
+  </Repository>
+  <Repository>
+    <Username>arduino</Username>
+    <Repo_Name>arduino-cli</Repo_Name>
+    <Repo_Url>https://www.github.com/arduino/arduino-cli</Repo_Url>
+    <Stars>4500</Stars>
+    <About>Arduino command line tool</About>
+    <Last_Updated>2025-02-24T16:01:43Z</Last_Updated>
+    <Languages>Go, Other</Languages>
+    <Commits>2773</Commits>
+  </Repository>
+</Repositories>

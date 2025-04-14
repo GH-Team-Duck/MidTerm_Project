@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<Repositories>
+  <Repository>
+    <Username>electron</Username>
+    <Repo_Name>electron</Repo_Name>
+    <Repo_Url>https://www.github.com/electron/electron</Repo_Url>
+    <Stars>116000</Stars>
+    <About>Build cross-platform desktop apps with JavaScript, HTML, and CSS</About>
+    <Last_Updated>2025-04-09T19:29:26Z</Last_Updated>
+    <Languages>C++, JavaScript, Objective-C, Objective-C++, Other, Python, TypeScript</Languages>
+    <Commits>29208</Commits>
+  </Repository>
+  <Repository>
+    <Username>puppeteer</Username>
+    <Repo_Name>puppeteer</Repo_Name>
+    <Repo_Url>https://www.github.com/puppeteer/puppeteer</Repo_Url>
+    <Stars>90400</Stars>
+    <About>JavaScript API for Chrome and Firefox</About>
+    <Last_Updated>2025-04-09T15:27:55Z</Last_Updated>
+    <Languages>HTML, JavaScript, Other, TypeScript</Languages>
+    <Commits>5490</Commits>
+  </Repository>
+  <Repository>
+    <Username>microsoft</Username>
+    <Repo_Name>playwright</Repo_Name>
+    <Repo_Url>https://www.github.com/microsoft/playwright</Repo_Url>
+    <Stars>71600</Stars>
+    <About>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</About>
+    <Last_Updated>2025-03-17T17:00:47Z</Last_Updated>
+    <Languages>C++, CSS, HTML, JavaScript, Objective-C, Other, TypeScript</Languages>
+    <Commits>14413</Commits>
+  </Repository>
+  <Repository>
+    <Username>FiloSottile</Username>
+    <Repo_Name>mkcert</Repo_Name>
+    <Repo_Url>https://www.github.com/FiloSottile/mkcert</Repo_Url>
+    <Stars>53100</Stars>
+    <About>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</About>
+    <Last_Updated>2022-04-26T17:51:05Z</Last_Updated>
+    <Languages>Go</Languages>
+    <Commits>165</Commits>
+  </Repository>
+  <Repository>
+    <Username>jaywcjlove</Username>
+    <Repo_Name>linux-command</Repo_Name>
+    <Repo_Url>https://www.github.com/jaywcjlove/linux-command</Repo_Url>
+    <Stars>33100</Stars>
+    <About>Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</About>
+    <Last_Updated>2025-02-21T00:46:26Z</Last_Updated>
+    <Languages>HTML, Markdown, Other</Languages>
+    <Commits>1431</Commits>
+  </Repository>
+  <Repository>
+    <Username>feder-cr</Username>
+    <Repo_Name>Jobs_Applier_AI_Agent_AIHawk</Repo_Name>
+    <Repo_Url>https://www.github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk</Repo_Url>
+    <Stars>27900</Stars>
+    <About>AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.</About>
+    <Last_Updated>2024-11-15T14:38:56Z</Last_Updated>
+    <Languages>CSS, Python</Languages>
+    <Commits>37</Commits>
+  </Repository>
+  <Repository>
+    <Username>ovity</Username>
+    <Repo_Name>octotree</Repo_Name>
+    <Repo_Url>https://www.github.com/ovity/octotree</Repo_Url>
+    <Stars>23000</Stars>
+    <About>GitHub on steroids</About>
+    <Last_Updated/>
+    <Languages>CSS, HTML, JavaScript, Less</Languages>
+    <Commits>719</Commits>
+  </Repository>
+  <Repository>
+    <Username>segment-boneyard</Username>
+    <Repo_Name>nightmare</Repo_Name>
+    <Repo_Url>https://www.github.com/segment-boneyard/nightmare</Repo_Url>
+    <Stars>19600</Stars>
+    <About>A high-level browser automation library.</About>
+    <Last_Updated>2014-09-30T16:31:32Z</Last_Updated>
+    <Languages>JavaScript, Other, Shell</Languages>
+    <Commits>994</Commits>
+  </Repository>
+  <Repository>
+    <Username>gildas-lormeau</Username>
+    <Repo_Name>SingleFile</Repo_Name>
+    <Repo_Url>https://www.github.com/gildas-lormeau/SingleFile</Repo_Url>
+    <Stars>17300</Stars>
+    <About>Web Extension for saving a faithful copy of a complete web page in a single HTML file</About>
+    <Last_Updated>2024-03-30T00:08:31Z</Last_Updated>
+    <Languages>CSS, HTML, JavaScript, Shell</Languages>
+    <Commits>8036</Commits>
+  </Repository>
+  <Repository>
+    <Username>GoogleChrome</Username>
+    <Repo_Name>chrome-extensions-samples</Repo_Name>
+    <Repo_Url>https://www.github.com/GoogleChrome/chrome-extensions-samples</Repo_Url>
+    <Stars>16300</Stars>
+    <About>Chrome Extensions Samples</About>
+    <Last_Updated/>
+    <Languages>C++, CSS, HTML, JavaScript, Other, Perl, TypeScript</Languages>
+    <Commits>1749</Commits>
+  </Repository>
+  <Repository>
+    <Username>checkly</Username>
+    <Repo_Name>headless-recorder</Repo_Name>
+    <Repo_Url>https://www.github.com/checkly/headless-recorder</Repo_Url>
+    <Stars>15100</Stars>
+    <About>Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.</About>
+    <Last_Updated>2021-08-20T17:00:44Z</Last_Updated>
+    <Languages>CSS, HTML, JavaScript, Vue</Languages>
+    <Commits>339</Commits>
+  </Repository>
+  <Repository>
+    <Username>google</Username>
+    <Repo_Name>WebFundamentals</Repo_Name>
+    <Repo_Url>https://www.github.com/google/WebFundamentals</Repo_Url>
+    <Stars>13900</Stars>
+    <About>Former git repo for WebFundamentals on developers.google.com</About>
+    <Last_Updated/>
+    <Languages>CSS, HTML, Handlebars, JavaScript, Python, Shell, Smarty</Languages>
+    <Commits>11329</Commits>
+  </Repository>
+  <Repository>
+    <Username>schickling</Username>
+    <Repo_Name>chromeless</Repo_Name>
+    <Repo_Url>https://www.github.com/schickling/chromeless</Repo_Url>
+    <Stars>13200</Stars>
+    <About>🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.</About>
+    <Last_Updated>2018-05-12T16:36:20Z</Last_Updated>
+    <Languages>HTML, TypeScript</Languages>
+    <Commits>559</Commits>
+  </Repository>
+  <Repository>
+    <Username>MetaMask</Username>
+    <Repo_Name>metamask-extension</Repo_Name>
+    <Repo_Url>https://www.github.com/MetaMask/metamask-extension</Repo_Url>
+    <Stars>12500</Stars>
+    <About>🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites</About>
+    <Last_Updated>2025-04-12T01:02:29Z</Last_Updated>
+    <Languages>EJS, JavaScript, MDX, SCSS, Shell, TypeScript</Languages>
+    <Commits>23711</Commits>
+  </Repository>
+  <Repository>
+    <Username>crimx</Username>
+    <Repo_Name>ext-saladict</Repo_Name>
+    <Repo_Url>https://www.github.com/crimx/ext-saladict</Repo_Url>
+    <Stars>12500</Stars>
+    <About>🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.</About>
+    <Last_Updated>2021-10-17T21:03:14Z</Last_Updated>
+    <Languages>JavaScript, Other, SCSS, TypeScript</Languages>
+    <Commits>3394</Commits>
+  </Repository>
+  <Repository>
+    <Username>xifangczy</Username>
+    <Repo_Name>cat-catch</Repo_Name>
+    <Repo_Url>https://www.github.com/xifangczy/cat-catch</Repo_Url>
+    <Stars>12300</Stars>
+    <About>猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension</About>
+    <Last_Updated>2025-04-07T21:10:15Z</Last_Updated>
+    <Languages>CSS, HTML, JavaScript</Languages>
+    <Commits>1623</Commits>
+  </Repository>
+  <Repository>
+    <Username>moonD4rk</Username>
+    <Repo_Name>HackBrowserData</Repo_Name>
+    <Repo_Url>https://www.github.com/moonD4rk/HackBrowserData</Repo_Url>
+    <Stars>12200</Stars>
+    <About>Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).</About>
+    <Last_Updated>2024-07-16T04:10:40Z</Last_Updated>
+    <Languages>Go</Languages>
+    <Commits>422</Commits>
+  </Repository>
+  <Repository>
+    <Username>casesandberg</Username>
+    <Repo_Name>react-color</Repo_Name>
+    <Repo_Url>https://www.github.com/casesandberg/react-color</Repo_Url>
+    <Stars>12100</Stars>
+    <About>🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter &amp; more</About>
+    <Last_Updated>2020-05-04T00:55:07Z</Last_Updated>
+    <Languages>JavaScript</Languages>
+    <Commits>679</Commits>
+  </Repository>
+  <Repository>
+    <Username>chromedp</Username>
+    <Repo_Name>chromedp</Repo_Name>
+    <Repo_Url>https://www.github.com/chromedp/chromedp</Repo_Url>
+    <Stars>11700</Stars>
+    <About>A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.</About>
+    <Last_Updated>2025-03-19T23:35:02Z</Last_Updated>
+    <Languages>Go, JavaScript, Shell</Languages>
+    <Commits>699</Commits>
+  </Repository>
+  <Repository>
+    <Username>ajayyy</Username>
+    <Repo_Name>SponsorBlock</Repo_Name>
+    <Repo_Url>https://www.github.com/ajayyy/SponsorBlock</Repo_Url>
+    <Stars>11200</Stars>
+    <About>Skip YouTube video sponsors (browser extension)</About>
+    <Last_Updated>2025-04-02T19:42:44Z</Last_Updated>
+    <Languages>CSS, HTML, JavaScript, TypeScript</Languages>
+    <Commits>3775</Commits>
+  </Repository>
+</Repositories>
